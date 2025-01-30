@@ -1,4 +1,5 @@
 # Quizzler - Quiz Game
+<img width="340" alt="Screen Shot 2025-01-30 at 23 38 40" src="https://github.com/user-attachments/assets/725a4c2e-328e-44d8-b535-767a4354befd" />
 
 ## Overview
 The Quizzler is an interactive Python quiz application that tests your knowledge with diverse questions. The game features a simple yet engaging user interface built with Tkinter, where players can answer True or False questions. The game tracks the player's score and displays feedback based on whether the answer is correct or incorrect.
